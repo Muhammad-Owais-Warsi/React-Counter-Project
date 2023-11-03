@@ -15,11 +15,11 @@ Provide step-by-step instructions on how to install and set up your project on t
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/project-name.git
+   https://github.com/Muhammad-Owais-Warsi/React-Counter-Project.git
    
 2. Change the repository
    ```sh
-   cd project-name
+   cd React-Counter-Project
 3. Install all dependencies
     ```sh
     npm install
